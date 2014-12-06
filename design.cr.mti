@@ -1,0 +1,87 @@
+F:/cde/uart.v {1 {vlog -work work -novopt F:/cde/uart.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module tx
+-- Compiling module rx
+-- Compiling module uart
+
+Top level modules:
+	uart
+
+} {} {}} F:/cde/read.v {1 {vlog -work work -novopt F:/cde/read.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module read
+
+Top level modules:
+	read
+
+} {} {}} F:/cde/rx.v {1 {vlog -work work -novopt F:/cde/rx.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module rx
+
+Top level modules:
+	rx
+
+} {} {}} F:/cde/j.v {1 {vlog -work work -novopt F:/cde/j.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module j
+
+Top level modules:
+	j
+
+} {} {}} F:/cde/top.v {1 {vlog -work work -novopt F:/cde/top.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} F:/cde/write.v {1 {vlog -work work -novopt F:/cde/write.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module write
+
+Top level modules:
+	write
+
+} {} {}} F:/cde/tx.v {1 {vlog -work work -novopt F:/cde/tx.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module tx
+
+Top level modules:
+	tx
+
+} {} {}} F:/cde/jr.v {1 {vlog -work work -novopt F:/cde/jr.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module jr
+
+Top level modules:
+	jr
+
+} {} {}} F:/cde/st.v {1 {vlog -work work -novopt F:/cde/st.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} F:/cde/jal.v {1 {vlog -work work -novopt F:/cde/jal.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module jal
+
+Top level modules:
+	jal
+
+} {} {}} F:/cde/beq.v {1 {vlog -work work -novopt F:/cde/beq.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module beq
+
+Top level modules:
+	beq
+
+} {} {}} F:/cde/control.v {1 {vlog -work work -novopt F:/cde/control.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}}
